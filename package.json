@@ -1,0 +1,19 @@
+{
+    "name": "randomgeng",
+    "version": "1.0.1",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "author": "",
+    "contributors": [],
+    "license": "ISC",
+    "bugs": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/759202307@git.com"
+    },
+    "engines": {}
+}
